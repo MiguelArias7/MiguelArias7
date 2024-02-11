@@ -1,6 +1,7 @@
 <div align="left">
+  
 ### Welcome!
-  sadasdas
+  
 ## About
 Miguel is a Full Stack software engineer with almost three years of experience. In his last project, Miguel has worked with React, Svelte and Javascript for frontend development and NodeJS, Azure, AWS, Typescript for backend development. Miguel is a self-learning, focused and committed individual who has worked in different industries such as accountability, gold trading and electronics.
 
