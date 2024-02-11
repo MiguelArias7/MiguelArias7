@@ -1,7 +1,7 @@
-<div align="center">
-  
+<div align="left">
+### Welcome!
 ## About
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+Miguel is a Full Stack software engineer with almost three years of experience. In his last project, Miguel has worked with React, Svelte and Javascript for frontend development and NodeJS, Azure, AWS, Typescript for backend development. Miguel is a self-learning, focused and committed individual who has worked in different industries such as accountability, gold trading and electronics.
 
 -------------------
 
