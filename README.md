@@ -30,14 +30,4 @@ Hello, I am full stack developer, working on multiple open source projects, main
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
   
 -------------------
-  
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&theme=radical&include_all_commits=true&count_private=true)
-
- <div>
-
------
 Credits: [LachlanDev](https://github.com/LachlanDev)
-
-Last Edited on: 1/10/2021
